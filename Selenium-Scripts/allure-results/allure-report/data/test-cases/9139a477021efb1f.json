@@ -1,0 +1,298 @@
+{
+  "uid" : "9139a477021efb1f",
+  "name" : "Update User Profile",
+  "historyId" : "5c101819418faf024a965e4b65b4af7e",
+  "time" : {
+    "start" : 1556531389702,
+    "stop" : 1556531547875,
+    "duration" : 158173
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "ReviewManagementStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556531397162,
+        "stop" : 1556531397163,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "ActivityStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556531397174,
+        "stop" : 1556531397174,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "EPQPortalStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556531397182,
+        "stop" : 1556531397182,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "LoginToAppStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556531397182,
+        "stop" : 1556531397182,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "CasesStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556531397198,
+        "stop" : 1556531397199,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "CustomerPortalStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556531397200,
+        "stop" : 1556531397200,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Given  I am on the EPQ Portal home page",
+      "time" : {
+        "start" : 1556531397211,
+        "stop" : 1556531433764,
+        "duration" : 36553
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "When  Navigate to Prequalification Requirements",
+      "time" : {
+        "start" : 1556531433768,
+        "stop" : 1556531484373,
+        "duration" : 50605
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And  User Profile Loaded",
+      "time" : {
+        "start" : 1556531484374,
+        "stop" : 1556531484473,
+        "duration" : 99
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And  User Enter Contact Details",
+      "time" : {
+        "start" : 1556531484473,
+        "stop" : 1556531498680,
+        "duration" : 14207
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And  User Enter Company Information and Upload the File",
+      "time" : {
+        "start" : 1556531498680,
+        "stop" : 1556531508736,
+        "duration" : 10056
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And  User Enter Trade License Information and Upload the File",
+      "time" : {
+        "start" : 1556531508737,
+        "stop" : 1556531518905,
+        "duration" : 10168
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And  User Enter Company Owner Information and Upload the File",
+      "time" : {
+        "start" : 1556531518906,
+        "stop" : 1556531543901,
+        "duration" : 24995
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And  Click on Next Button",
+      "time" : {
+        "start" : 1556531543901,
+        "stop" : 1556531547832,
+        "duration" : 3931
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then  Verify Profile has been Updated",
+      "time" : {
+        "start" : 1556531547833,
+        "stop" : 1556531547875,
+        "duration" : 42
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 15,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "EPQPortal"
+  }, {
+    "name" : "story",
+    "value" : "Update User Profile"
+  }, {
+    "name" : "tag",
+    "value" : "TCID270"
+  }, {
+    "name" : "tag",
+    "value" : "TCIDEPQPortal"
+  }, {
+    "name" : "tag",
+    "value" : "UserProfile"
+  }, {
+    "name" : "tag",
+    "value" : "PrequalificationRequirements"
+  }, {
+    "name" : "host",
+    "value" : "KHILT-1858"
+  }, {
+    "name" : "package",
+    "value" : "EPQPortal"
+  }, {
+    "name" : "suite",
+    "value" : "EPQPortal"
+  }, {
+    "name" : "testClass",
+    "value" : "Update User Profile"
+  }, {
+    "name" : "thread",
+    "value" : "67380@KHILT-1858.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "UserProfile", "TCID270", "PrequalificationRequirements", "TCIDEPQPortal" ]
+  },
+  "source" : "9139a477021efb1f.json",
+  "parameterValues" : [ ]
+}

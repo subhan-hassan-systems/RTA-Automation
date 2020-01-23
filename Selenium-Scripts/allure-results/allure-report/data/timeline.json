@@ -1,0 +1,141 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "KHILT-1858",
+    "children" : [ {
+      "name" : "91072@KHILT-1858.main(1)",
+      "children" : [ {
+        "name" : "Open Submitted Project",
+        "uid" : "17d1da536847258d",
+        "parentUid" : "6aaed2caff6d4e756d1f586953ea94f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1556545913065,
+          "stop" : 1556545936092,
+          "duration" : 23027
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Update Vendor Under Taken",
+        "uid" : "8e9f6688cb852067",
+        "parentUid" : "6aaed2caff6d4e756d1f586953ea94f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1556545835279,
+          "stop" : 1556545881371,
+          "duration" : 46092
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Update Experience Information",
+        "uid" : "f8e06e6d99133cf9",
+        "parentUid" : "6aaed2caff6d4e756d1f586953ea94f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1556545362592,
+          "stop" : 1556545437938,
+          "duration" : 75346
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Update Personal Information",
+        "uid" : "9109ae34c23ff303",
+        "parentUid" : "6aaed2caff6d4e756d1f586953ea94f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1556545437943,
+          "stop" : 1556545596827,
+          "duration" : 158884
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Update HSE Information",
+        "uid" : "446eef950c800af0",
+        "parentUid" : "6aaed2caff6d4e756d1f586953ea94f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1556545596831,
+          "stop" : 1556545682517,
+          "duration" : 85686
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Update Green Economy Information",
+        "uid" : "85ac359ec2bf1541",
+        "parentUid" : "6aaed2caff6d4e756d1f586953ea94f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1556545682529,
+          "stop" : 1556545757518,
+          "duration" : 74989
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Add Scope Project",
+        "uid" : "1be93f199decb333",
+        "parentUid" : "6aaed2caff6d4e756d1f586953ea94f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1556545881382,
+          "stop" : 1556545913059,
+          "duration" : 31677
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Update Financial Information with Bank",
+        "uid" : "34f7be4cac7abc1a",
+        "parentUid" : "6aaed2caff6d4e756d1f586953ea94f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1556545290901,
+          "stop" : 1556545362471,
+          "duration" : 71570
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6aaed2caff6d4e756d1f586953ea94f4"
+    }, {
+      "name" : "67380@KHILT-1858.main(1)",
+      "children" : [ {
+        "name" : "Update User Profile",
+        "uid" : "9139a477021efb1f",
+        "parentUid" : "a1fa587a33cdcfb7a26eb1a1ba8d2dd2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1556531389702,
+          "stop" : 1556531547875,
+          "duration" : 158173
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a1fa587a33cdcfb7a26eb1a1ba8d2dd2"
+    }, {
+      "name" : "69316@KHILT-1858.main(1)",
+      "children" : [ {
+        "name" : "Update Company Structure",
+        "uid" : "d4cd92ae3b7076e0",
+        "parentUid" : "17ec0a86821fc57a54b0e38be746e102",
+        "status" : "passed",
+        "time" : {
+          "start" : 1556535487573,
+          "stop" : 1556535562683,
+          "duration" : 75110
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "17ec0a86821fc57a54b0e38be746e102"
+    } ],
+    "uid" : "fffc670a95f6f4cda4e3618e965aed45"
+  } ]
+}

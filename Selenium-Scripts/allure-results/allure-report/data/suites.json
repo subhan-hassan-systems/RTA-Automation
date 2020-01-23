@@ -1,0 +1,129 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "EPQPortal",
+    "children" : [ {
+      "name" : "Update User Profile",
+      "uid" : "9139a477021efb1f",
+      "parentUid" : "d27f3ed3466d283192047ef269d79713",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556531389702,
+        "stop" : 1556531547875,
+        "duration" : 158173
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Update Company Structure",
+      "uid" : "d4cd92ae3b7076e0",
+      "parentUid" : "d27f3ed3466d283192047ef269d79713",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556535487573,
+        "stop" : 1556535562683,
+        "duration" : 75110
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Update Financial Information with Bank",
+      "uid" : "34f7be4cac7abc1a",
+      "parentUid" : "d27f3ed3466d283192047ef269d79713",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556545290901,
+        "stop" : 1556545362471,
+        "duration" : 71570
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Update Experience Information",
+      "uid" : "f8e06e6d99133cf9",
+      "parentUid" : "d27f3ed3466d283192047ef269d79713",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556545362592,
+        "stop" : 1556545437938,
+        "duration" : 75346
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Update Personal Information",
+      "uid" : "9109ae34c23ff303",
+      "parentUid" : "d27f3ed3466d283192047ef269d79713",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556545437943,
+        "stop" : 1556545596827,
+        "duration" : 158884
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Update HSE Information",
+      "uid" : "446eef950c800af0",
+      "parentUid" : "d27f3ed3466d283192047ef269d79713",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556545596831,
+        "stop" : 1556545682517,
+        "duration" : 85686
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Update Green Economy Information",
+      "uid" : "85ac359ec2bf1541",
+      "parentUid" : "d27f3ed3466d283192047ef269d79713",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556545682529,
+        "stop" : 1556545757518,
+        "duration" : 74989
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Update Vendor Under Taken",
+      "uid" : "8e9f6688cb852067",
+      "parentUid" : "d27f3ed3466d283192047ef269d79713",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556545835279,
+        "stop" : 1556545881371,
+        "duration" : 46092
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Add Scope Project",
+      "uid" : "1be93f199decb333",
+      "parentUid" : "d27f3ed3466d283192047ef269d79713",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556545881382,
+        "stop" : 1556545913059,
+        "duration" : 31677
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Open Submitted Project",
+      "uid" : "17d1da536847258d",
+      "parentUid" : "d27f3ed3466d283192047ef269d79713",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556545913065,
+        "stop" : 1556545936092,
+        "duration" : 23027
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "d27f3ed3466d283192047ef269d79713"
+  } ]
+}

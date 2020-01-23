@@ -1,0 +1,449 @@
+{
+  "uid" : "8e9f6688cb852067",
+  "name" : "Update Vendor Under Taken",
+  "historyId" : "1a749589a1b63a53f27018e466501043",
+  "time" : {
+    "start" : 1556545835279,
+    "stop" : 1556545881371,
+    "duration" : 46092
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "CustomerPortalStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556545835280,
+        "stop" : 1556545835280,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "CustomerPortalStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556545835280,
+        "stop" : 1556545835280,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "LoginToAppStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556545835281,
+        "stop" : 1556545835281,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "LoginToAppStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556545835281,
+        "stop" : 1556545835281,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "EPQPortalStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556545835282,
+        "stop" : 1556545835282,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "EPQPortalStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556545835283,
+        "stop" : 1556545835283,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "ActivityStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556545835285,
+        "stop" : 1556545835285,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "ActivityStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556545835285,
+        "stop" : 1556545835285,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "ReviewManagementStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556545835286,
+        "stop" : 1556545835286,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "ReviewManagementStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556545835287,
+        "stop" : 1556545835287,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "CasesStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556545835290,
+        "stop" : 1556545835290,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "CasesStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556545835290,
+        "stop" : 1556545835290,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Given  I am on the EPQ Portal home page",
+      "time" : {
+        "start" : 1556545835291
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Given  I am on the EPQ Portal home page",
+      "time" : {
+        "start" : 1556545835291,
+        "stop" : 1556545852581,
+        "duration" : 17290
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "When  Navigate to Prequalification Requirements",
+      "time" : {
+        "start" : 1556545852589
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "When  Navigate to Prequalification Requirements",
+      "time" : {
+        "start" : 1556545852589,
+        "stop" : 1556545857623,
+        "duration" : 5034
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And  User Profile Loaded",
+      "time" : {
+        "start" : 1556545857625
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And  User Profile Loaded",
+      "time" : {
+        "start" : 1556545857625,
+        "stop" : 1556545857748,
+        "duration" : 123
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And  Navigate to Vendor Under Taken",
+      "time" : {
+        "start" : 1556545857748
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And  Navigate to Vendor Under Taken",
+      "time" : {
+        "start" : 1556545857748,
+        "stop" : 1556545863592,
+        "duration" : 5844
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And  User Upload Under Taken with Additional Note",
+      "time" : {
+        "start" : 1556545863592
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And  User Upload Under Taken with Additional Note",
+      "time" : {
+        "start" : 1556545863592,
+        "stop" : 1556545871449,
+        "duration" : 7857
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And  User Saved Vendor Under Taken",
+      "time" : {
+        "start" : 1556545871450
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And  User Saved Vendor Under Taken",
+      "time" : {
+        "start" : 1556545871450,
+        "stop" : 1556545875302,
+        "duration" : 3852
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then  Click on Proceed",
+      "time" : {
+        "start" : 1556545875304
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then  Click on Proceed",
+      "time" : {
+        "start" : 1556545875304,
+        "stop" : 1556545881371,
+        "duration" : 6067
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 26,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "EPQPortal"
+  }, {
+    "name" : "story",
+    "value" : "Update Vendor Under Taken"
+  }, {
+    "name" : "tag",
+    "value" : "TCID278"
+  }, {
+    "name" : "tag",
+    "value" : "TCIDEPQPortal"
+  }, {
+    "name" : "tag",
+    "value" : "VendorUnderTaken"
+  }, {
+    "name" : "tag",
+    "value" : "PrequalificationRequirements"
+  }, {
+    "name" : "host",
+    "value" : "KHILT-1858"
+  }, {
+    "name" : "package",
+    "value" : "EPQPortal"
+  }, {
+    "name" : "suite",
+    "value" : "EPQPortal"
+  }, {
+    "name" : "testClass",
+    "value" : "Update Vendor Under Taken"
+  }, {
+    "name" : "thread",
+    "value" : "91072@KHILT-1858.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "VendorUnderTaken", "PrequalificationRequirements", "TCIDEPQPortal", "TCID278" ]
+  },
+  "source" : "8e9f6688cb852067.json",
+  "parameterValues" : [ ]
+}

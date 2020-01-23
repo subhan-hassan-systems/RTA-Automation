@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbc98712-16f0-485e-aa65-61ef7cc00dcb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRM-Maven-Cucumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/Pages/IMSCRMPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/Stepdefinitions/IMSCRMPageStepsDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium-Scripts/src/test/resources/features/IMS/IdeaManagementSystem.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.mylyn/.taskListIndex/segments_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.mylyn/.taskListIndex/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.mylyn/.tasks.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.mylyn/repositories.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.mylyn/tasks.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.cdt.make.core/specs.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.cdt.make.core/specs.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache.lucene60/segments_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache.lucene60/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/segments_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.jdt.core/index.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.m2e.core.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_0.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments.gen" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_0.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.m2e.core/nexus/cf4c4485403456eb866a72c8240a6c19/_0.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.m2e.core/nexus/cf4c4485403456eb866a72c8240a6c19/segments.gen" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.m2e.core/nexus/cf4c4485403456eb866a72c8240a6c19/segments_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.m2e.core/nexus/cf4c4485403456eb866a72c8240a6c19/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.8.3.20180227-2137.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.oomph.setup.editor/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.recommenders.news.impl/downloads/http%3A%2F%2Fwww.eclipse.org%2Fhome%2Feclipsenews.rss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.recommenders.news.impl/downloads/http%3A%2F%2Fwww.eclipse.org%2Frecommenders%2Ffeeds%2Fide.rss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.ui.editors/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/.plugins/org.eclipse.wst.sse.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/.metadata/version.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/data/behaviors.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/data/behaviors.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/data/behaviors.json" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/data/behaviors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/data/packages.json" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/data/packages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/data/suites.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/data/suites.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/data/suites.json" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/data/suites.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/data/test-cases/20f7d36920205c13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/data/timeline.json" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/data/timeline.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/export/influxDbData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/export/influxDbData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/export/prometheusData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/export/prometheusData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/history/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/history/duration-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/history/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/history/history-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/history/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/history/history.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/history/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/history/retry-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/widgets/behaviors.json" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/widgets/behaviors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/widgets/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/widgets/duration-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/widgets/duration.json" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/widgets/duration.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/widgets/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/widgets/history-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/widgets/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/widgets/retry-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/widgets/severity.json" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/widgets/severity.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/widgets/status-chart.json" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/widgets/status-chart.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/widgets/suites.json" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/widgets/suites.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/widgets/summary.json" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/allure-results/allure-report/widgets/summary.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/selenium-scripts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/selenium-scripts.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/src/Testdata.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/src/Testdata.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/src/chromedriver_win32/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/src/chromedriver_win32/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/src/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/src/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/src/configEmailSetup.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/src/configEmailSetup.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/Pages/CasesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/Pages/CasesPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/Pages/CustomerPortal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/Pages/CustomerPortal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/Pages/EPQPortal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/Pages/EPQPortal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/Pages/NewPhoneCallPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/Pages/NewPhoneCallPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/Pages/ReviewManagementPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/Pages/ReviewManagementPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/RunAll_Sanity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/RunAll_Sanity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/Stepdefinitions/ActivityStepsDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/Stepdefinitions/ActivityStepsDefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/Stepdefinitions/CasesStepsDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/Stepdefinitions/CasesStepsDefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/Stepdefinitions/CustomerPortalStepsDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/Stepdefinitions/CustomerPortalStepsDefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/Stepdefinitions/ReviewManagementStepsDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/Stepdefinitions/ReviewManagementStepsDefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/Stepdefinitions/StartingSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/Stepdefinitions/StartingSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/Utils/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/Utils/DriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/Utils/UtilityMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/Utils/UtilityMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/src/test/resources/features/CaseManagement/CaseManagement.feature" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/src/test/resources/features/CaseManagement/CaseManagement.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/src/test/resources/features/CustomerPortal/PortalCaseManagment.feature" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/src/test/resources/features/CustomerPortal/PortalCaseManagment.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Scripts/src/test/resources/features/EPQPortalCRM/ReviewManagmentCRM.feature" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Scripts/src/test/resources/features/EPQPortalCRM/ReviewManagmentCRM.feature" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/RunAll_Sanity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/RunAll_Sanity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rta_crm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rta_crm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rta_crm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rta_crm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Selenium-Scripts" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbc98712-16f0-485e-aa65-61ef7cc00dcb" name="Default Changelist" comment="" />
+      <created>1577861963473</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577861963473</updated>
+      <workItem from="1577861967755" duration="374000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="374000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3207262" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.18657938" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" visible="true" weight="0.17246597" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Selenium-Scripts/src/test/java/Test/Automation/RunAll_Sanity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10.0.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="C:\Users\amad.mumtaz\Desktop\Automation\rta_crm\Selenium-Scripts" />
+    <option value="clean" />
+  </component>
+</project>

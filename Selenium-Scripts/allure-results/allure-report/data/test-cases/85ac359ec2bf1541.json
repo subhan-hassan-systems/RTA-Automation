@@ -1,0 +1,393 @@
+{
+  "uid" : "85ac359ec2bf1541",
+  "name" : "Update Green Economy Information",
+  "historyId" : "c9994b0cd53e248e5a02b001a6da14af",
+  "time" : {
+    "start" : 1556545682529,
+    "stop" : 1556545757518,
+    "duration" : 74989
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "CustomerPortalStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556545682535,
+        "stop" : 1556545682535,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "CustomerPortalStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556545682535,
+        "stop" : 1556545682535,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "LoginToAppStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556545682537,
+        "stop" : 1556545682537,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "LoginToAppStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556545682537,
+        "stop" : 1556545682537,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "EPQPortalStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556545682546,
+        "stop" : 1556545682547,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "EPQPortalStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556545682547,
+        "stop" : 1556545682547,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "ActivityStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556545682552,
+        "stop" : 1556545682552,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "ActivityStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556545682552,
+        "stop" : 1556545682552,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "ReviewManagementStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556545682554,
+        "stop" : 1556545682554,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "ReviewManagementStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556545682554,
+        "stop" : 1556545682554,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "CasesStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556545682565,
+        "stop" : 1556545682565,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "CasesStepsDefs.setUp()",
+      "time" : {
+        "start" : 1556545682565,
+        "stop" : 1556545682565,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Given  I am on the EPQ Portal home page",
+      "time" : {
+        "start" : 1556545682567
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Given  I am on the EPQ Portal home page",
+      "time" : {
+        "start" : 1556545682567,
+        "stop" : 1556545696916,
+        "duration" : 14349
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "When  Navigate to Prequalification Requirements",
+      "time" : {
+        "start" : 1556545696922
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "When  Navigate to Prequalification Requirements",
+      "time" : {
+        "start" : 1556545696922,
+        "stop" : 1556545701943,
+        "duration" : 5021
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And  User Profile Loaded",
+      "time" : {
+        "start" : 1556545701945
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And  User Profile Loaded",
+      "time" : {
+        "start" : 1556545701945,
+        "stop" : 1556545702116,
+        "duration" : 171
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And  Navigate to Green Economy",
+      "time" : {
+        "start" : 1556545702117
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And  Navigate to Green Economy",
+      "time" : {
+        "start" : 1556545702117,
+        "stop" : 1556545706953,
+        "duration" : 4836
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And  User Select Answers for Green Economy & Upload Attachments",
+      "time" : {
+        "start" : 1556545706953
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And  User Select Answers for Green Economy & Upload Attachments",
+      "time" : {
+        "start" : 1556545706953,
+        "stop" : 1556545757517,
+        "duration" : 50564
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 22,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "EPQPortal"
+  }, {
+    "name" : "story",
+    "value" : "Update Green Economy Information"
+  }, {
+    "name" : "tag",
+    "value" : "TCID276"
+  }, {
+    "name" : "tag",
+    "value" : "TCIDEPQPortal"
+  }, {
+    "name" : "tag",
+    "value" : "GreenEconomy"
+  }, {
+    "name" : "tag",
+    "value" : "PrequalificationRequirements"
+  }, {
+    "name" : "host",
+    "value" : "KHILT-1858"
+  }, {
+    "name" : "package",
+    "value" : "EPQPortal"
+  }, {
+    "name" : "suite",
+    "value" : "EPQPortal"
+  }, {
+    "name" : "testClass",
+    "value" : "Update Green Economy Information"
+  }, {
+    "name" : "thread",
+    "value" : "91072@KHILT-1858.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "TCID276", "PrequalificationRequirements", "TCIDEPQPortal", "GreenEconomy" ]
+  },
+  "source" : "85ac359ec2bf1541.json",
+  "parameterValues" : [ ]
+}
